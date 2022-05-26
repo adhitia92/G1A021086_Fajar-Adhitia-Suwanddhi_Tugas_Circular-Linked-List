@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 
-struct circularll{ //struct
+struct circularll{ //struktur
     
     int angka;
     circularll* next; 
